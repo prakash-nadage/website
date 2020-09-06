@@ -355,7 +355,7 @@ btn-primary:hover{
 
 
 /*===== FIXED BACKGROUND IMG =====*/
-.fixed{background-image: url('../img/matrix.jpg');
+.fixed{background-image: url('../img/back.jpg');
   position: fixed;
 }
 .fixed-background{
@@ -380,7 +380,6 @@ footer{
   padding: 1rem 2rem 3rem;
 }
 footer img{
-  height: 3.5rem;
   margin: 1.5rem auto;
 }
 footer p,footer a{
